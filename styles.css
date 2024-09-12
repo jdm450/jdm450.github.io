@@ -1,0 +1,122 @@
+h1 {
+  text-align: center;
+}
+
+html {
+  background: url('https://upload.wikimedia.org/wikipedia/commons/5/5c/Tenmile_Peak_from_Lake_Dillon.jpg') no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.container {
+  background-color: #696969;
+  border-radius:10px;
+  width: 22%;
+  margin: auto;
+  opacity: 0.8;
+}
+
+.space {
+  width: 100%;
+  height: 30px;
+  /*background-color: black;*/
+}
+
+.skied {
+  font-size: 25px;
+  margin-left: 100px;
+  font-weight: bold;
+  text-align: left;
+  display: inline-block;
+}
+
+.notskied {
+  font-size: 25px;
+  margin-right: 100px;
+  font-weight: bold;
+  text-align: right;
+  display: inline-block;
+  float: right;
+}
+
+.line {
+  background-color: black;
+  height: 1px;
+}
+
+
+.not-done {
+  float: right;
+  margin-right: 30px;
+}
+
+.large-gap {
+  width: 100%;
+  height: 185px,
+}
+
+.footer {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+
+.container2 {
+  background-color: black;
+  width: 280px;
+  display: inline-block;
+  border-radius:25px;
+  margin-left: 75px;
+  text-align: center;
+}
+
+.container3 {
+  display: inline-block;
+  background-color: black;
+  width: 155px;
+  text-align: center;
+  border-radius: 25px;
+  margin-left: 125px
+}
+
+.container4 {
+  background-color: black;
+  width: 110px;
+  display: inline-block;
+  border-radius: 25px;
+  text-align: center;
+  margin-left: 125px;
+}
+
+.container5 {
+  background-color: black;
+  width: 130px;
+  text-align: center;
+  border-radius: 25px;
+  display: inline-block;
+  margin-left: 125px
+}
+
+.container6 {
+  background-color: black;
+  width: 110px;
+  display: inline-block;
+  border-radius:25px;
+  margin-right: 75px;
+  text-align: center;
+  float: right;
+}
+
+a:link {
+  text-decoration: none; 
+}
+
+
+li:hover {
+  background-color: #ff2121;
+  transform: scale(1.2);
+  border-radius: 5px;
+  padding-left: 3px;
+}
