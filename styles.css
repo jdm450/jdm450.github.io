@@ -50,10 +50,6 @@ html {
 .not-done {
   float: right;
   margin-right: 30px;
-  background-color: #696969;
-  border-radius:10px;
-  margin: auto;
-  opacity: 0.8;
 }
 
 .large-gap {
